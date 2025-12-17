@@ -2,11 +2,11 @@
 
 
 ## 📈 Resumen
-✅ 4 correctas de 8 queries
+✅ 7 correctas de 11 queries
 
 ## ✅ Query 1: Correcto
 
-⏱ Tiempo: 0.35 ms
+⏱ Tiempo: 0.40 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
@@ -30,7 +30,7 @@
 
 ## ✅ Query 4: Correcto
 
-⏱ Tiempo: 0.29 ms
+⏱ Tiempo: 0.27 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
@@ -64,7 +64,7 @@
  DISCO SSD 1 TB | 150.99
 ```
 
-⏱ Tiempo: 0.27 ms
+⏱ Tiempo: 0.28 ms
 🔍 No se usó ningún índice en esta consulta.
 
 ---
@@ -86,6 +86,27 @@
 
 ---
 
-## ❌ Query 8: Error
+## ✅ Query 8: Correcto
+
+⏱ Tiempo: 0.29 ms
+🔍 No se usó ningún índice en esta consulta.
+
+---
+
+## ✅ Query 9: Correcto
+
+⏱ Tiempo: 0.27 ms
+🔍 No se usó ningún índice en esta consulta.
+
+---
+
+## ✅ Query 10: Correcto
+
+⏱ Tiempo: 0.27 ms
+🔍 No se usó ningún índice en esta consulta.
+
+---
+
+## ❌ Query 11: Error
 - **Descripción**: 'NoneType' object is not iterable
 
