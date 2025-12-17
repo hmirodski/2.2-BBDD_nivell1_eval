@@ -6,7 +6,7 @@ SELECT precio, nombre FROM producto;
 
 
 -- 3. Llista totes les columnes de la taula producto.
-
+SELECT * FROM producto;
 
 -- 4. Llista el nom dels productes, el preu en euros (precio_eur) i el preu en dòlars estatunidencs (precio_usd) amb un tipus de canvi de 1 € = 1 $.
 
