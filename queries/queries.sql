@@ -4,7 +4,6 @@ SELECT nombre FROM producto;
 -- 2. Llista els noms i els preus de tots els productes de la taula producto.
 SELECT precio, nombre FROM producto;
 
-
 -- 3. Llista totes les columnes de la taula producto.
 SELECT * FROM producto;
 
